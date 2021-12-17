@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+  background-color: darkgray;
+  top: 70px;
+}
+.purchases{
+  background-color:cadetblue;
+  color: black;
+  text-align:center ;
+  border-radius: 45%;
+  font-size: 50px;
+  top: -130px;
+  position: relative;
+  font-family: cursive;
+margin:10px ;
+}
+.title{
+  font-family: cursive;
+  position: relative;
+top: -150px; 
+color:black;
+font-size: 40px;
+}
+
+.emoji{
+  font-size: xx-large;
+  top: 450px;
+  left: 90px;
+  position: relative;
+ 
+}
+/* .CartDisplay{
+  position: relative;
+  display: none;
+} */
+.List{
+  position: relative;
+  display: block;
+}
+.purchase{
+  color: cadetblue;
+  background-color: black;
+  font-size: xx-large;
+  position: relative;
+}
+/* .CartDiv{
+  background-color:darkgray;
+  color: black;
+  text-align:center ;
+  position: relative;
+
+} */
+.buy{
+  color: cadetblue;
+  background-color: black;
+  font-size: xx-large;
+  top: 0px;
+  right: 100px;
+  position: relative;
+  
+}
+#TotalStyle{
+  font-family: cursive;
+  position: relative;
+top: 20px; 
+color:black;
+font-size: 40px;
+}
+#Delete{
+   bottom: 65px;
+}
+/* .CartEmoij{
+  font-size:50px;
+ top:200pxx;
+ right: 0px;
+  position: relative;
+} */
+
+.CartEmoij{
+  font-size: 30px;
+ top:580px;
+ right:110px;
+  position: relative;
+}
+.Cart{
+  font-family: cursive;
+  color: black;
+  font-size:50px;
+  top: 680px;
+  right:190px;
+  position: relative;
+}
+
+
+
+
